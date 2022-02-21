@@ -1,45 +1,16 @@
-# EasyTech-E-commerce-Application-
+# week6_starter
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/94231603/154952818-1e125431-d99b-4db3-83b8-127b69ef14ec.gif" center=true>
-</p
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-# 
-  
-# GroupWork
-This is a group project done by myself and  [Assoumaaa](https://github.com/assoumaaa)
+A new Flutter project.
 
-  
-# Goal
-The goal of this project is to design & implement an e-commerce mobile applciation aka Trendyol Clone
-  
-# What was used in this project?
-Flutter (Dart)
-  
-# Project in Details
-- Walkthrough at the start of Application explaning how to use it
-- Made up of start menu,categories,favorites,cart,notifications and mock payment
-- Full Connection to Firebase
-- Added products using FireStore
-- Users can create their own account 
-- Ability for the user to add items to favorites/cart
-- Ability for the user to remove items from favorites/cart
-- Each user has his own cart/favorites
-- Mock Payment system
-- Allow the user to search for a specific item and add it to favorites or cart
- 
-# Note
-  Firebase accesss has expired
-  
+## Getting Started
 
-  
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
