@@ -38,7 +38,9 @@ Flutter (Dart)
 - Mock Payment system
 - Allow the user to search for a specific item and add it to favorites or cart
  
-
+# NOTE
+  The zip contains all files from the project
+  
   
 
   
