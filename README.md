@@ -38,7 +38,8 @@ Flutter (Dart)
 - Mock Payment system
 - Allow the user to search for a specific item and add it to favorites or cart
  
-
+# Note
+  Firebase accesss has expired
   
 
   
